@@ -1,0 +1,28 @@
+#form{
+   height: 880px;
+    background-color: blueviolet;
+    width: 995px;
+    font-size: larger;
+    color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-bottom: auto;
+   
+}
+h1{
+    text-align: center;
+    color:blueviolet;
+}
+
+label{
+    width: 180px;
+    display:inline-table;
+}
+#hashir{
+    text-align: center;
+}
+#button{
+    text-align: center;
+}
+
